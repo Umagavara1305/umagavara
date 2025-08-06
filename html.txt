@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+      <head>
+            <title>HTML Table Tag</title>
+</head>
+<body>
+      <table border="1">
+             <tr>
+                  <th>Name</th>
+                  <th>Age</th>
+                  <th>City</th>
+            </tr>
+            <tr>
+                  <td>Umagavara </td>
+                  <td>21</td>
+                  <td>Vizag</td>
+           </tr>
+           <tr>
+                  <td>Sowmyagavara</td>
+                  <td>18</td> 
+                  <td>Sheelanagar</td>
+            </tr>
+       </table>
+</body>
+</html>
